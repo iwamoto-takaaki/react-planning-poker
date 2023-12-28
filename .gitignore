@@ -1,8 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-planning-pocker/node_modules
-planning-pocker/.pnp
+planning-poker/node_modules
+planning-poker/.pnp
 .pnp.js
 
 # testing
